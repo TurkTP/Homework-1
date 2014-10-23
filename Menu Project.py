@@ -16,8 +16,7 @@ def count(s, letter):
     return c
 
 def formatname(name):
-    #makes first letters capitals and rest lower case
-
+    #makes first lqwdqweqw
 def firstname():
     fname=str(input('Enter employee(s) name'))
     return fname
